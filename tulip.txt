@@ -1,31 +1,31 @@
 
-
- 
+          
            
-             $b    ..    d$. 
-            d::k. .db. .k$$$. 
-           d:::ii,$II$,SSS$$k 
-          .:::iii$IIIII$SSS$$. 
-          ::::ii$IIIIII$SSSS$$ 
-   |      :::iii$IIIIII$SSSS$$     |
-   L      :::iii$IIIIIII$SSS$7    .d
-   :i     "H::ii$IIIIIII$SS$$     d$
-   :i      H::ii$IIIIIII$S$$7     $$
-   :i      "4::ii$IIIII$S$$7     .$$
-   :iL       4::ii$III$S$$?      d$$
-   :ik         "$i$II$S$?       .TIS
-   ;iIL          7iI$S?         dTIS
-   ;:iH           4$$7          $TIS
-   4:iIL          \S$/         dTISS
-   ":iI$L         :S$:        d$TISS
-    ::iIH         :S$:       .$TISS"
-    "::iIL         S$      .diTISS"
-     7::iIL        S$     .diTISS$
-      "::iISL      S$    d$iTISS"
-       7::iIS$L.  .S$,  .diTIISS"
-        ":::iIS$$:::::iiiTIIISS
-          ":::iIS$::::iiTIISS"
-            "::iIS$::iiTIIS"
+           
+                     :b    ..    d$.                   
+                    :::k. .db. .k$$$.                  
+                   ::::ii,$II$,SSS$$k                  
+                  .:::iii$IIII$SSSS$$.                 
+                  ::::ii$IIIIII$SSSS$$                 
+                  :::iii$IIIIII$SSSS$$                 
+             L    :::iii$IIIIII$SSSS$7                 
+             :i   `:::ii$IIIIII$SSS$$'   .             
+            .:i    :::ii$IIIIII$SS$$7    $             
+            ::i.   "4::ii$IIII$SS$$7    ,$,            
+            ::iL    `4::ii$II$SS$$?     d$b            
+            ::ik.     `"$i$II$S$?`     ,TI|            
+            :;iIL       `7iI$S?`       dTI|            
+            :;:iH        `4:$7`       ,$TI`            
+             4:iIL        \:$/       ,dTIS             
+             \:iI$L       `:$'       :dTIS             
+             `::iI$H       :$       J:TIS`             
+              "::iI$$L     i$     .J:iTIP              
+               7::iI$$$L   :$   .J:iTISP`             
+               `"::iIS$$$L :$  J::$iTIP`
+                 7::iIS$$$LS:.JdiTIISS`
+                 `":::iIS$$$::TTTIIIS`
+                   `":::iIS$$::TISS"
+                     `"::iIS$:TIS"
 
 
 
@@ -33,12 +33,3 @@
 
 
 
-
-
-
-
-
-
-crurvas arriba: . d j L k ,
-curvas abajo:   ` ? 4 7 " ¨
-sombras:        $$SSIIi:-
